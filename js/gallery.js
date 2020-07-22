@@ -1,6 +1,6 @@
 let galleryImages = document.querySelectorAll(".gallery-img");
 let getLatestOpenedImg;
-// gets the total width of the browser's window
+let sk;
 let windowWidth=window.innerWidth;
 
 if(galleryImages){
