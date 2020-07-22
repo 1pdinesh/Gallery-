@@ -1,6 +1,7 @@
 let galleryImages = document.querySelectorAll(".gallery-img");
 let getLatestOpenedImg;
 let sk;
+let sufiah;
 let windowWidth=window.innerWidth;
 
 if(galleryImages){
