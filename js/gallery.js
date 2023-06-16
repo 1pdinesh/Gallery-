@@ -3,6 +3,8 @@ let getLatestOpenedImg;
 let sk;
 let windowWidth = window.innerWidth;
 let wai;
+let naif;
+let withkirti;
 
 if (galleryImages) {
   galleryImages.forEach(function (image, index) {
